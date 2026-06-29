@@ -9,13 +9,12 @@ I help businesses grow with automation, marketing, design, and web development.
 - AI-assisted tools for marketing, research, and local workflows
 - Native macOS and iOS utilities for focused day-to-day work
 
-## Featured Work
+## Working Areas
 
-| Project | Stack | What it is |
-| --- | --- | --- |
-| [CodexBar](https://github.com/brahimhamichan/CodexBar) | Swift | Usage stats for OpenAI Codex and Claude Code |
-| [open_oura](https://github.com/brahimhamichan/open_oura) | Rust | Local-first Oura Ring BLE toolkit and data tooling |
-| [palmier-pro](https://github.com/brahimhamichan/palmier-pro) | Swift | AI-assisted macOS video editor |
+- CRM and sales operations
+- AI-assisted creative production
+- Local automation and workflow tooling
+- Native Apple platform experiments
 
 ## Current Focus
 
